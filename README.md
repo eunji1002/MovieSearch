@@ -19,7 +19,7 @@ MovieSearch는 넷플릭스에서 상영 중인 한국 영화의 대사를 검�
 
 ## 🔥 앱 미리보기
 <p>
-  <img src="/app/1.png" width="200" alt="1">
-  <img src="/app/2.png" width="200" alt="2">
-  <img src="/app/3.png" width="200" alt="3">
+  <img src="/app/1.jpg" width="200" alt="1">
+  <img src="/app/22.jpg" width="200" alt="2">
+  <img src="/app/3.jpg" width="200" alt="3">
 </p>
